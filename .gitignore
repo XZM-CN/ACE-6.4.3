@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# my extern
+##############################################################################
+*.suo
+*.user
+*.tlog
+*.log
+*.idb
+*.pdb
+Debug
+*.ilk
+*.exp
+*.VC.db
+ACE_wrappers/apps/gperf/tests/*.cpp
+ACE_wrappers/apps/gperf/tests/iout2_gen/idl.cpp
